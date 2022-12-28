@@ -1,0 +1,4 @@
+weather,temperature,Humidity,wind,Yes
+Sunny,Warm,Normal,Strong,Yes
+Sunny,Warm,Normal,Strong,No
+Sunny,cold,Normal,Strong,Yes
